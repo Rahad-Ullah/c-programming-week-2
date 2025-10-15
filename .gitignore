@@ -11,3 +11,4 @@
 
 # Ignore editor/IDE files
 .vscode
+.cph
